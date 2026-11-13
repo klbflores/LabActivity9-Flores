@@ -1,6 +1,6 @@
 # Lab Activity 9 - Barangay Bakuna Tracker: Blade, Tailwind & Vite
 
-**Student Name:** [Your First Name] Flores  
+**Student Name:** Kauri Lorraine Flores  
 **Course:** CS Elective 2 — Full-Stack Web Development  
 **Repository:** `LabActivity9-Flores`  
 
